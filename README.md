@@ -84,9 +84,6 @@ Future plans for Open Source Contributions are contributing to:
     </tbody>
   <table>
 <div>
-  
-<div>[Aniket's GitHub stats]</div>
----
 
 <div align='center'>
 
