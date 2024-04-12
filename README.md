@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angst-angwalkar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angst-angwalkar)](https://github.com/Angst-angwalkar/github-readme-stats)
