@@ -4,15 +4,16 @@
 Full Stack Polyglot with enthusiam for all things code. Currently learning java and spring boot microservices.
 
 
-Hoping to contibute to: 
+Future plans for Open Source Contributions are contributing to: 
 <div align="center">
 <a href="[https://github.com/LibreOffice](https://github.com/LibreOffice)">
 <img src="https://www.libreoffice.org/themes/libreofficenew/img/logo.png" alt="Libre Office"/>
 </a>
+  <br>
 </div>
-In the near future and working towards the same.
 
-<br></br>
+
+<br>
 
 <div align="center">
 <a href="[https://www.linkedin.com/in/aniket-angwalkar](https://www.linkedin.com/in/aniket-angwalkar-42069/)">
@@ -22,7 +23,7 @@ In the near future and working towards the same.
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
-
+<br>
 ### Languages, Tools, and Skills 🛠
 <div align="center">
   
