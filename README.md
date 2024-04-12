@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="name banner" />
+<img src="./Banner.jpg" alt="name banner" />
 
 ### About Me
 Full Stack Polyglot with enthusiam for all things code. Currently learning java and spring boot microservices.
