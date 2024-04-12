@@ -16,7 +16,7 @@ Future plans for Open Source Contributions are contributing to:
 <br>
 
 <div align="center">
-<a href="[https://www.linkedin.com/in/aniket-angwalkar](https://www.linkedin.com/in/aniket-angwalkar-42069/)">
+<a href="https://www.linkedin.com/in/aniket-angwalkar-42069/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="mailto:angwalkar.316@gmail.com">
