@@ -4,7 +4,8 @@
 Full Stack Polyglot with enthusiam for all things code. Currently learning java and spring boot microservices.
 
 
-Future plans for Open Source Contributions are contributing to: 
+Future plans for Open Source Contributions are contributing to:
+<br>
 <div align="center">
 <a href="[https://github.com/LibreOffice](https://github.com/LibreOffice)">
 <img src="https://www.libreoffice.org/themes/libreofficenew/img/logo.png" alt="Libre Office"/>
@@ -19,6 +20,7 @@ Future plans for Open Source Contributions are contributing to:
 <a href="https://www.linkedin.com/in/aniket-angwalkar-42069/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<br>
 <a href="mailto:angwalkar.316@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
@@ -67,15 +69,14 @@ Future plans for Open Source Contributions are contributing to:
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/angst-angwalkar">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angst-angwalkar&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
+            <img height=250 width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=angst-angwalkar&hide=ruby&layout=donut&langs_count=6&theme=tokyonight" alt="Aniket's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/angst-angwalkar">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/angst-angwalkar?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=angst-angwalkar&show_icons=true&hide=stars&hide_border=true" alt="Aniket's GitHub Stats" vertical-align="middle"/>
+            <img height=300 width=600 src="https://github-readme-stats.vercel.app/api?username=angst-angwalkar&show_icons=true&hide=stars&theme=tokyonight" alt="Aniket's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -83,7 +84,8 @@ Future plans for Open Source Contributions are contributing to:
     </tbody>
   <table>
 <div>
-
+  
+<div>[Aniket's GitHub stats]</div>
 ---
 
 <div align='center'>
